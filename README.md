@@ -1,6 +1,6 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I’m @Ashifcoder
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/Unicoorn.png" alt="TryHackMe">
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
