@@ -13,7 +13,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/Unicoorn.png" alt="TryHackMe"> <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="55"><img src="https://media.giphy.com/media/eNpP80U2AJKDn1UDhP/giphy.gif" width = 64> <img src="https://media.giphy.com/media/J61tD7jk3dHkkEC6l7/giphy.gif" width=135>
 
 **Languages Known**
-<img src = "https://media.giphy.com/media/eg1bhkbPqMfKNS2run/giphy.gif" width = 280 align = "right">
+<img src = "https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width = 280 align = "right">
 - <img src ="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width=45> <img src="https://media.giphy.com/media/MCRQ0Nkn4KfeQDdM7N/giphy.gif" width=75> <img src="https://media.giphy.com/media/3ya3f6h1RbMxDzEG0r/giphy.gif" width=45> 
 
 ## Which Character Are You ?
